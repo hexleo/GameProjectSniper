@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="info_text_size">10dp</dimen>
+    <dimen name="info_text_height">16dp</dimen>
+    <dimen name="info_text_width">60dp</dimen>
+    <dimen name="info_text_gap">65dp</dimen>
+    <dimen name="info_btn_text_width">80dp</dimen>
+    <dimen name="info_btn_text_height">30dp</dimen>
+    <dimen name="info_btn_text_size">18dp</dimen>
+    <dimen name="joystick_dagger_size">40dp</dimen>
+    <!-- dagger_margin = dagger_size / 2 * 3-->
+    <dimen name="joystick_dagger_margin">60dp</dimen>
+    <dimen name="combo_image_size">30dp</dimen>
+    <dimen name="combo_image_margin">150dp</dimen>
+</resources>
